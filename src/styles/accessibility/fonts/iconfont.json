@@ -1,0 +1,450 @@
+{
+  "id": "2721521",
+  "name": "手机银行老年版",
+  "font_family": "ymfont-access",
+  "css_prefix_text": "icon-access-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "24067118",
+      "name": "icon账户管理-解冻",
+      "font_class": "iconzhanghuguanli-jiedong",
+      "unicode": "e68a",
+      "unicode_decimal": 59018
+    },
+    {
+      "icon_id": "24061065",
+      "name": "设置-字体调节",
+      "font_class": "shezhi-zititiaojie",
+      "unicode": "e63c",
+      "unicode_decimal": 58940
+    },
+    {
+      "icon_id": "23971579",
+      "name": "icon账户管理-挂失",
+      "font_class": "iconzhanghuguanli-guashi",
+      "unicode": "e689",
+      "unicode_decimal": 59017
+    },
+    {
+      "icon_id": "23961745",
+      "name": "icon账户管理-渠道存款",
+      "font_class": "iconzhanghuguanli-qudaocunkuan",
+      "unicode": "e688",
+      "unicode_decimal": 59016
+    },
+    {
+      "icon_id": "23800364",
+      "name": "wode-wenhao-white",
+      "font_class": "wode-wenhao-white",
+      "unicode": "e639",
+      "unicode_decimal": 58937
+    },
+    {
+      "icon_id": "23564243",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e687",
+      "unicode_decimal": 59015
+    },
+    {
+      "icon_id": "23384968",
+      "name": "账户管理-添加",
+      "font_class": "jiahao",
+      "unicode": "e686",
+      "unicode_decimal": 59014
+    },
+    {
+      "icon_id": "23382088",
+      "name": "资产总览-疑问说明",
+      "font_class": "wenhao",
+      "unicode": "e684",
+      "unicode_decimal": 59012
+    },
+    {
+      "icon_id": "23382089",
+      "name": "资产总览-活期余额",
+      "font_class": "huoqiyue",
+      "unicode": "e685",
+      "unicode_decimal": 59013
+    },
+    {
+      "icon_id": "23382084",
+      "name": "资产总览-向上箭头",
+      "font_class": "xiangshangjiantou",
+      "unicode": "e683",
+      "unicode_decimal": 59011
+    },
+    {
+      "icon_id": "23378618",
+      "name": "转账-手机号",
+      "font_class": "shoujihao",
+      "unicode": "e682",
+      "unicode_decimal": 59010
+    },
+    {
+      "icon_id": "23378616",
+      "name": "转账-扫描",
+      "font_class": "zhuanzhang-saomiao",
+      "unicode": "e681",
+      "unicode_decimal": 59009
+    },
+    {
+      "icon_id": "23363635",
+      "name": "设置-关于我们",
+      "font_class": "guanyuwomen",
+      "unicode": "e679",
+      "unicode_decimal": 59001
+    },
+    {
+      "icon_id": "23363636",
+      "name": "设置-版本切换",
+      "font_class": "banbenqiehuan1",
+      "unicode": "e67a",
+      "unicode_decimal": 59002
+    },
+    {
+      "icon_id": "23363637",
+      "name": "设置-个人中心",
+      "font_class": "gerenzhongxin",
+      "unicode": "e67b",
+      "unicode_decimal": 59003
+    },
+    {
+      "icon_id": "23363638",
+      "name": "设置-安全中心",
+      "font_class": "anquanzhongxin",
+      "unicode": "e67c",
+      "unicode_decimal": 59004
+    },
+    {
+      "icon_id": "23360691",
+      "name": "设置-登录方式管理",
+      "font_class": "denglufangshiguanli",
+      "unicode": "e67d",
+      "unicode_decimal": 59005
+    },
+    {
+      "icon_id": "23360693",
+      "name": "设置-个人信息维护",
+      "font_class": "gerenxinxiweihu",
+      "unicode": "e67e",
+      "unicode_decimal": 59006
+    },
+    {
+      "icon_id": "23360695",
+      "name": "设置-变更手机号",
+      "font_class": "biangengshoujihao",
+      "unicode": "e67f",
+      "unicode_decimal": 59007
+    },
+    {
+      "icon_id": "23360696",
+      "name": "设置-登录密码修改",
+      "font_class": "denglumimaxiugai",
+      "unicode": "e680",
+      "unicode_decimal": 59008
+    },
+    {
+      "icon_id": "23360519",
+      "name": "微信",
+      "font_class": "weixin",
+      "unicode": "e677",
+      "unicode_decimal": 58999
+    },
+    {
+      "icon_id": "23360520",
+      "name": "朋友圈",
+      "font_class": "pengyouquan",
+      "unicode": "e678",
+      "unicode_decimal": 59000
+    },
+    {
+      "icon_id": "23360497",
+      "name": "账户管理-交易密码管理",
+      "font_class": "iconzhanghuguanli-jiaoyimimaguanli",
+      "unicode": "e671",
+      "unicode_decimal": 58993
+    },
+    {
+      "icon_id": "23360407",
+      "name": "账户管理-转账额度设置",
+      "font_class": "iconzhanghuguanli-zhuanzhangedushezhi",
+      "unicode": "e676",
+      "unicode_decimal": 58998
+    },
+    {
+      "icon_id": "23360029",
+      "name": "账户管理-客服",
+      "font_class": "iconzhanghuguanli-kefu",
+      "unicode": "e675",
+      "unicode_decimal": 58997
+    },
+    {
+      "icon_id": "23357085",
+      "name": "账户管理-开户日期",
+      "font_class": "iconzhanghuguanli-kaihuriqi",
+      "unicode": "e673",
+      "unicode_decimal": 58995
+    },
+    {
+      "icon_id": "23357086",
+      "name": "账户管理-交易明细",
+      "font_class": "iconzhanghuguanli-jiaoyimingxi",
+      "unicode": "e674",
+      "unicode_decimal": 58996
+    },
+    {
+      "icon_id": "23357080",
+      "name": "列表-右箭头",
+      "font_class": "icon-youjiantou",
+      "unicode": "e66e",
+      "unicode_decimal": 58990
+    },
+    {
+      "icon_id": "23357081",
+      "name": "返回",
+      "font_class": "icondazi-fanhuijiantou",
+      "unicode": "e66f",
+      "unicode_decimal": 58991
+    },
+    {
+      "icon_id": "23357082",
+      "name": "账户管理-解除绑定",
+      "font_class": "iconzhanghuguanli-jiechubangding",
+      "unicode": "e670",
+      "unicode_decimal": 58992
+    },
+    {
+      "icon_id": "23357084",
+      "name": "账户管理-注销",
+      "font_class": "iconzhanghuguanli-zhuxiao",
+      "unicode": "e672",
+      "unicode_decimal": 58994
+    },
+    {
+      "icon_id": "23356192",
+      "name": "不可见",
+      "font_class": "bukejian",
+      "unicode": "e66c",
+      "unicode_decimal": 58988
+    },
+    {
+      "icon_id": "23356122",
+      "name": "退出",
+      "font_class": "tuichu",
+      "unicode": "e66a",
+      "unicode_decimal": 58986
+    },
+    {
+      "icon_id": "23356123",
+      "name": "版本切换",
+      "font_class": "banbenqiehuan",
+      "unicode": "e66b",
+      "unicode_decimal": 58987
+    },
+    {
+      "icon_id": "23356125",
+      "name": "可见",
+      "font_class": "kejian",
+      "unicode": "e66d",
+      "unicode_decimal": 58989
+    },
+    {
+      "icon_id": "23356045",
+      "name": "弹窗取消",
+      "font_class": "danchuangquxiao",
+      "unicode": "e663",
+      "unicode_decimal": 58979
+    },
+    {
+      "icon_id": "23356046",
+      "name": "客服",
+      "font_class": "kefu1",
+      "unicode": "e664",
+      "unicode_decimal": 58980
+    },
+    {
+      "icon_id": "23356047",
+      "name": "公告",
+      "font_class": "gonggao",
+      "unicode": "e665",
+      "unicode_decimal": 58981
+    },
+    {
+      "icon_id": "23356048",
+      "name": "积分",
+      "font_class": "jifen",
+      "unicode": "e666",
+      "unicode_decimal": 58982
+    },
+    {
+      "icon_id": "23356049",
+      "name": "消息-常规",
+      "font_class": "xiaoxi-changgui",
+      "unicode": "e667",
+      "unicode_decimal": 58983
+    },
+    {
+      "icon_id": "23356050",
+      "name": "消息-提醒",
+      "font_class": "xiaoxi-tixing",
+      "unicode": "e668",
+      "unicode_decimal": 58984
+    },
+    {
+      "icon_id": "23356051",
+      "name": "生活缴费",
+      "font_class": "shenghuojiaofei",
+      "unicode": "e669",
+      "unicode_decimal": 58985
+    },
+    {
+      "icon_id": "23355978",
+      "name": "全部-关于裕民",
+      "font_class": "guanyuyumin",
+      "unicode": "e662",
+      "unicode_decimal": 58978
+    },
+    {
+      "icon_id": "23355824",
+      "name": "全部-金小裕",
+      "font_class": "jinxiaoyu",
+      "unicode": "e65e",
+      "unicode_decimal": 58974
+    },
+    {
+      "icon_id": "23355825",
+      "name": "全部-金裕贷",
+      "font_class": "jinyudai",
+      "unicode": "e65f",
+      "unicode_decimal": 58975
+    },
+    {
+      "icon_id": "23355826",
+      "name": "全部-商裕贷",
+      "font_class": "shangyudai",
+      "unicode": "e660",
+      "unicode_decimal": 58976
+    },
+    {
+      "icon_id": "23355827",
+      "name": "全部-整存整取",
+      "font_class": "zhengcunzhengqu",
+      "unicode": "e661",
+      "unicode_decimal": 58977
+    },
+    {
+      "icon_id": "23354849",
+      "name": "全部-充值",
+      "font_class": "chongzhi",
+      "unicode": "e64f",
+      "unicode_decimal": 58959
+    },
+    {
+      "icon_id": "23354850",
+      "name": "全部-常见问题",
+      "font_class": "changjianwenti",
+      "unicode": "e650",
+      "unicode_decimal": 58960
+    },
+    {
+      "icon_id": "23354851",
+      "name": "全部-安全管理",
+      "font_class": "anquanguanli",
+      "unicode": "e651",
+      "unicode_decimal": 58961
+    },
+    {
+      "icon_id": "23354852",
+      "name": "全部-存款产品",
+      "font_class": "cunkuanchanpin",
+      "unicode": "e652",
+      "unicode_decimal": 58962
+    },
+    {
+      "icon_id": "23354853",
+      "name": "全部-个人信息",
+      "font_class": "gerenxinxi",
+      "unicode": "e653",
+      "unicode_decimal": 58963
+    },
+    {
+      "icon_id": "23354854",
+      "name": "全部-渠道管理",
+      "font_class": "qudaoguanli",
+      "unicode": "e654",
+      "unicode_decimal": 58964
+    },
+    {
+      "icon_id": "23354857",
+      "name": "全部-税裕贷",
+      "font_class": "shuiyudai",
+      "unicode": "e655",
+      "unicode_decimal": 58965
+    },
+    {
+      "icon_id": "23354858",
+      "name": "全部-远程银行",
+      "font_class": "yuanchengyinhang",
+      "unicode": "e656",
+      "unicode_decimal": 58966
+    },
+    {
+      "icon_id": "23354859",
+      "name": "全部-转账记录",
+      "font_class": "zhuanzhangjilu",
+      "unicode": "e657",
+      "unicode_decimal": 58967
+    },
+    {
+      "icon_id": "23354860",
+      "name": "全部-账户管理",
+      "font_class": "zhanghuguanli",
+      "unicode": "e658",
+      "unicode_decimal": 58968
+    },
+    {
+      "icon_id": "23354862",
+      "name": "全部-转账",
+      "font_class": "zhuanzhang",
+      "unicode": "e659",
+      "unicode_decimal": 58969
+    },
+    {
+      "icon_id": "23354863",
+      "name": "全部-客服 ",
+      "font_class": "kefu",
+      "unicode": "e65a",
+      "unicode_decimal": 58970
+    },
+    {
+      "icon_id": "23354864",
+      "name": "全部-隐私政策",
+      "font_class": "yinsizhengce",
+      "unicode": "e65b",
+      "unicode_decimal": 58971
+    },
+    {
+      "icon_id": "23354866",
+      "name": "全部-资产",
+      "font_class": "zichan",
+      "unicode": "e65c",
+      "unicode_decimal": 58972
+    },
+    {
+      "icon_id": "23354867",
+      "name": "全部-交易明细",
+      "font_class": "jiaoyimingxi",
+      "unicode": "e65d",
+      "unicode_decimal": 58973
+    },
+    {
+      "icon_id": "23354812",
+      "name": "全部-提现",
+      "font_class": "tixian",
+      "unicode": "e64e",
+      "unicode_decimal": 58958
+    }
+  ]
+}

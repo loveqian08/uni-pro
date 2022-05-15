@@ -1,0 +1,5 @@
+
+view.page-content.theme-blue{
+	--primary: #68C0CD;
+	--primary-hover-color: #{lighten($color: #68C0CD, $amount: 10)};
+}

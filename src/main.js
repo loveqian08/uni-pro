@@ -7,6 +7,15 @@ import Format from '@/common/format.js';
 Vue.config.productionTip = false
 // filters
 import { filters } from '@/filters/filters.js';
+// 注册全局组件
+import MescrollUni from "@/components/mescroll-uni/mescroll-uni.vue";
+Vue.component('mescroll-uni', MescrollUni);
+
+import YFormItem from '@/components/YFormItem.vue';
+// import track from '@/common/track.js';
+
+Vue.component('y-form-item', YFormItem);
+
 Object.keys(filters).forEach(key => {
 	Vue.filter(key, filters[key]);
 });

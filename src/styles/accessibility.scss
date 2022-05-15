@@ -1,0 +1,77 @@
+.accessibility{
+    .ym-btn{
+        font-size: px2rem(18);
+    }
+    .primary-btn[class] {
+        font-size: px2rem(18);
+    }
+    
+    .form-group {
+        --label-width: px2rem(100);
+        padding: 0 32rpx;
+        & + .form-group {
+            margin-top: 20rpx;
+        }
+    
+        .checkbox-area {
+            line-height: px2rem(20);
+            font-size: px2rem(14);
+            .protocl-text{
+                font-size: px2rem(14);
+            }
+        }
+    }
+    
+    
+    .form-item-label {
+        font-size: px2rem(18);
+    }
+    .form-item-input-area {
+        font-size: px2rem(18);
+        input {
+            width: 100%;
+            font-size: px2rem(18);
+            &:placeholder {
+                font-size: px2rem(18);
+            }
+        }
+        .custom-input-content{
+            font-size: px2rem(18);
+        }
+    }
+    /deep/ .input-placeholder {
+        font-size: px2rem(18);
+    }
+    .send-code-btn[class] {
+        color: var(--primary);
+        font-size: px2rem(16);
+    }
+    
+    /deep/ .van-action-sheet__item{
+        font-size: px2rem(18);
+    }
+    
+    uni-toast {
+        .uni-toast__content{
+            font-size: px2rem(16);
+        }
+        .uni-simple-toast__text{
+            font-size: px2rem(14);
+        }
+    }
+    
+    .van-dialog{
+        .van-dialog__header{
+            font-size: px2rem(18);
+        }
+        
+        .van-dialog__message{
+            font-size: px2rem(14);
+            line-height: 1.1;
+        }
+        .van-button{
+            font-size: px2rem(16);
+        }
+    }
+    
+}

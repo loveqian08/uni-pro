@@ -1,0 +1,73 @@
+// $primaryColor: #68C0CD;
+$primaryColor: #E84848;
+$borderColor: #DDDDDD;
+$bgColor:#dbd9d9;
+/**
+* 上下居中
+ */
+@mixin v-center {
+  display: flex;
+  align-items: center;
+  align-content: center;
+}
+/**
+* 左右居中
+ */
+@mixin h-center {
+  display: flex;
+  justify-items: center;
+  justify-content: center;
+}
+
+@mixin center {
+  display: flex;
+  align-items: center;
+  align-content: center;
+  justify-items: center;
+  justify-content: center;
+}
+
+/*
+* 超出显示省略号
+*/
+@mixin sl {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+/*
+* 多行文本，超过多少行省略号
+*/
+@mixin clamp($line: 2){
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: $line;
+  -webkit-box-orient: vertical;
+}
+
+/*** -webkit-box 上下居中 ***/
+@mixin webkit-center {
+  display: -webkit-box;
+  -webkit-box-align: center;
+  -moz-box-align: center;
+  -webkit-box-pack: justify;
+  -moz-box-pack: justify;
+}
+
+
+@mixin scroll-y {
+  overflow-x: hidden;
+  overflow-y: auto;
+  overflow-scrolling: touch;
+}
+
+@mixin pfm{
+  font-family: PingFangSC-Medium;
+}
+@mixin pfl{
+  font-family: PingFangSC-Light;
+}
+@mixin pfr{
+  font-family: PingFangSC-Regular;
+}

@@ -1,0 +1,267 @@
+@font-face {
+  font-family: "ymfont-access"; /* Project id 2721521 */
+  src: url('@/styles/accessibility/fonts/access-iconfont.woff2?t=1630579363060') format('woff2'),
+       url('@/styles/accessibility/fonts/access-iconfont.woff?t=1630579363060') format('woff'),
+       url('@/styles/accessibility/fonts/access-iconfont.ttf?t=1630579363060') format('truetype');
+}
+
+.ymfont-access {
+  font-family: "ymfont-access" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-access-iconzhanghuguanli-jiedong:before {
+  content: "\e68a";
+}
+
+.icon-access-shezhi-zititiaojie:before {
+  content: "\e63c";
+}
+
+.icon-access-iconzhanghuguanli-guashi:before {
+  content: "\e689";
+}
+
+.icon-access-iconzhanghuguanli-qudaocunkuan:before {
+  content: "\e688";
+}
+
+.icon-access-wode-wenhao-white:before {
+  content: "\e639";
+}
+
+.icon-access-sousuo:before {
+  content: "\e687";
+}
+
+.icon-access-jiahao:before {
+  content: "\e686";
+}
+
+.icon-access-wenhao:before {
+  content: "\e684";
+}
+
+.icon-access-huoqiyue:before {
+  content: "\e685";
+}
+
+.icon-access-xiangshangjiantou:before {
+  content: "\e683";
+}
+
+.icon-access-shoujihao:before {
+  content: "\e682";
+}
+
+.icon-access-zhuanzhang-saomiao:before {
+  content: "\e681";
+}
+
+.icon-access-guanyuwomen:before {
+  content: "\e679";
+}
+
+.icon-access-banbenqiehuan1:before {
+  content: "\e67a";
+}
+
+.icon-access-gerenzhongxin:before {
+  content: "\e67b";
+}
+
+.icon-access-anquanzhongxin:before {
+  content: "\e67c";
+}
+
+.icon-access-denglufangshiguanli:before {
+  content: "\e67d";
+}
+
+.icon-access-gerenxinxiweihu:before {
+  content: "\e67e";
+}
+
+.icon-access-biangengshoujihao:before {
+  content: "\e67f";
+}
+
+.icon-access-denglumimaxiugai:before {
+  content: "\e680";
+}
+
+.icon-access-weixin:before {
+  content: "\e677";
+}
+
+.icon-access-pengyouquan:before {
+  content: "\e678";
+}
+
+.icon-access-iconzhanghuguanli-jiaoyimimaguanli:before {
+  content: "\e671";
+}
+
+.icon-access-iconzhanghuguanli-zhuanzhangedushezhi:before {
+  content: "\e676";
+}
+
+.icon-access-iconzhanghuguanli-kefu:before {
+  content: "\e675";
+}
+
+.icon-access-iconzhanghuguanli-kaihuriqi:before {
+  content: "\e673";
+}
+
+.icon-access-iconzhanghuguanli-jiaoyimingxi:before {
+  content: "\e674";
+}
+
+.icon-access-icon-youjiantou:before {
+  content: "\e66e";
+}
+
+.icon-access-icondazi-fanhuijiantou:before {
+  content: "\e66f";
+}
+
+.icon-access-iconzhanghuguanli-jiechubangding:before {
+  content: "\e670";
+}
+
+.icon-access-iconzhanghuguanli-zhuxiao:before {
+  content: "\e672";
+}
+
+.icon-access-bukejian:before {
+  content: "\e66c";
+}
+
+.icon-access-tuichu:before {
+  content: "\e66a";
+}
+
+.icon-access-banbenqiehuan:before {
+  content: "\e66b";
+}
+
+.icon-access-kejian:before {
+  content: "\e66d";
+}
+
+.icon-access-danchuangquxiao:before {
+  content: "\e663";
+}
+
+.icon-access-kefu1:before {
+  content: "\e664";
+}
+
+.icon-access-gonggao:before {
+  content: "\e665";
+}
+
+.icon-access-jifen:before {
+  content: "\e666";
+}
+
+.icon-access-xiaoxi-changgui:before {
+  content: "\e667";
+}
+
+.icon-access-xiaoxi-tixing:before {
+  content: "\e668";
+}
+
+.icon-access-shenghuojiaofei:before {
+  content: "\e669";
+}
+
+.icon-access-guanyuyumin:before {
+  content: "\e662";
+}
+
+.icon-access-jinxiaoyu:before {
+  content: "\e65e";
+}
+
+.icon-access-jinyudai:before {
+  content: "\e65f";
+}
+
+.icon-access-shangyudai:before {
+  content: "\e660";
+}
+
+.icon-access-zhengcunzhengqu:before {
+  content: "\e661";
+}
+
+.icon-access-chongzhi:before {
+  content: "\e64f";
+}
+
+.icon-access-changjianwenti:before {
+  content: "\e650";
+}
+
+.icon-access-anquanguanli:before {
+  content: "\e651";
+}
+
+.icon-access-cunkuanchanpin:before {
+  content: "\e652";
+}
+
+.icon-access-gerenxinxi:before {
+  content: "\e653";
+}
+
+.icon-access-qudaoguanli:before {
+  content: "\e654";
+}
+
+.icon-access-shuiyudai:before {
+  content: "\e655";
+}
+
+.icon-access-yuanchengyinhang:before {
+  content: "\e656";
+}
+
+.icon-access-zhuanzhangjilu:before {
+  content: "\e657";
+}
+
+.icon-access-zhanghuguanli:before {
+  content: "\e658";
+}
+
+.icon-access-zhuanzhang:before {
+  content: "\e659";
+}
+
+.icon-access-kefu:before {
+  content: "\e65a";
+}
+
+.icon-access-yinsizhengce:before {
+  content: "\e65b";
+}
+
+.icon-access-zichan:before {
+  content: "\e65c";
+}
+
+.icon-access-jiaoyimingxi:before {
+  content: "\e65d";
+}
+
+.icon-access-tixian:before {
+  content: "\e64e";
+}
+
